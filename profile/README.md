@@ -7,7 +7,7 @@
 
 ## 📖 Table of Contents
 
-- [Motivation](#Motivation)
+- [Motivation](#motivation)
 - [General Objectives](#general-objectives)
 - [GitHub Repository](#github-repository)
 - [Contributing](#contributing)
