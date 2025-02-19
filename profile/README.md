@@ -1,4 +1,6 @@
-<img src="/Users/tcanc/Desktop/Readme_CBB/static/logo_cbb.png" alt="founding" width="400" style="display: block; margin: auto;">
+<p align="center">
+  <img src="https://github.com/centrebalearbiodiversitat/.github/blob/main/profile/static/logo_cbb.png" alt="founding" width="400">
+</p>
 
 # 🌱 Balearic Biodiversity Centre
 
@@ -57,4 +59,6 @@ Contributions are always welcome! To maintain consistency across all our project
 
 <hr>
 
-<img src="/Users/tcanc/Desktop/Readme_CBB/static/founding.png" alt="founding" width="600" style="display: block; margin: auto;">
+<p align="center">
+  <img src="https://github.com/centrebalearbiodiversitat/.github/blob/main/profile/static/founding.png" alt="founding" width="500">
+</p>
